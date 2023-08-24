@@ -1,9 +1,9 @@
-h1 h1 {
+h1{leleco
     text-align:center;
-    background-color: aqua;
+    background-color: pink;
 }
-h3{
-    background-color: blue;
+h2{
+    background-color: black;
 }
 
 p {
@@ -15,14 +15,13 @@ strong {
 }
 
 body {
-    background-color: blueviolet;
+    background-color: aquamarine;
 }
-.unicornio {
-    background-color: aqua
-    color: green
+.leoniro{
+    color: pink
 }
 .brilho {
-    background-color: brown
+    background-color: aqua
 }
     
 }
