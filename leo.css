@@ -1,9 +1,14 @@
 h1{leleco
     text-align:center;
-    background-color: pink;
+    background-color: aqua;
 }
 h2{
-    background-color: black;
+    text-align:center
+}
+h3{
+    font-style: oblique;
+    background-color: red;
+    text-align: center;
 }
 
 p {
@@ -22,6 +27,4 @@ body {
 }
 .brilho {
     background-color: aqua
-}
-    
 }
