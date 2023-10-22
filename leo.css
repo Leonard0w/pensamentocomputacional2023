@@ -28,3 +28,9 @@ body {
 .brilho {
     background-color: aqua
 }
+nav a{
+    text-transform:uppercase
+    color:blanchedalmond
+    font-weight: 300;
+    font-size: 100%;}
+    
